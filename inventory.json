@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Coca Cola",
+        "price": 300,
+        "stock": 40,
+        "barcode": "5444444400099",
+        "category": "Beverages"
+    },
+    {
+        "id": 2,
+        "name": "Coca Cola",
+        "price": 300,
+        "stock": 40,
+        "barcode": "5444444400099",
+        "category": "Beverages"
+    },
+    {
+        "id": 3,
+        "name": "Test Product",
+        "price": 100,
+        "stock": 10,
+        "barcode": "123456789",
+        "category": "Test"
+    },
+    {
+        "id": 4,
+        "name": "Test Product",
+        "price": 100,
+        "stock": 10,
+        "barcode": "123456789",
+        "category": "Test"
+    },
+    {
+        "id": 5,
+        "name": "Update Test",
+        "price": 200,
+        "stock": 20,
+        "barcode": "987654321",
+        "category": "Test"
+    },
+    {
+        "id": 6,
+        "name": "Test Product",
+        "price": 100,
+        "stock": 10,
+        "barcode": "123456789",
+        "category": "Test"
+    },
+    {
+        "id": 7,
+        "name": "Update Test",
+        "price": 200,
+        "stock": 20,
+        "barcode": "987654321",
+        "category": "Test"
+    },
+    {
+        "id": 8,
+        "name": "Test Product",
+        "price": 100,
+        "stock": 10,
+        "barcode": "123456789",
+        "category": "Test"
+    },
+    {
+        "id": 9,
+        "name": "Update Test",
+        "price": 200,
+        "stock": 20,
+        "barcode": "987654321",
+        "category": "Test"
+    },
+    {
+        "id": 10,
+        "name": "Test Product",
+        "price": 100,
+        "stock": 10,
+        "barcode": "123456789",
+        "category": "Test"
+    },
+    {
+        "id": 11,
+        "name": "Update Test",
+        "price": 200,
+        "stock": 20,
+        "barcode": "987654321",
+        "category": "Test"
+    }
+]
